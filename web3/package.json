@@ -1,0 +1,12 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "web3": "^1.5.3"
+  }
+}

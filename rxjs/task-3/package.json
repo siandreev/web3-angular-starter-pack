@@ -1,0 +1,12 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node ./dist/task-3"
+  },
+  "dependencies": {
+    "rxjs": "^7.3.0",
+    "typescript": "^4.4.3"
+  }
+}
